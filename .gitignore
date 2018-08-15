@@ -1,0 +1,6 @@
+*.db
+/Debug/*
+/MultipleThread/Debug/*
+/.vs/*
+*.user
+
